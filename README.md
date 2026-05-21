@@ -77,7 +77,9 @@ The data was used to create Pivot Tables and dashboard visuals for business deci
 ---
 ## Dashboard 
 
-![Dashboard](images/dashboard.png)
+![Sales and Profit Dashboard](images/dashboard.png)
+
+---
 
 ---
 
