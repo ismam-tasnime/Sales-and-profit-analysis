@@ -100,21 +100,13 @@ These KPI cards provide a quick executive-level view of business performance.
 
 ---
 
-## Dashboard Pages / Workbook Structure
-
-The Excel workbook contains multiple sheets for analysis and reporting.
-
 ### 1. Data Sheet
 
 The *Data* sheet contains the original transaction-level business data. This sheet was used as the source table for building Pivot Tables and dashboard visuals.
 
 ### 2. Pivot/rpivot Sheet
 
-The *Pivot* sheet contains summarized Pivot Table analysis, including customer type performance, sales amount, profit amount, average sales, and average margin.
-
-
-
-The *rpivot* sheet contains the major Pivot Table calculations used for the dashboard visuals. It includes service-wise profit, customer type sales, customer source analysis, city/country sales and profit, and customer type by source.
+The *rpivot/pivot* sheet contains the major Pivot Table calculations used for the dashboard visuals. It includes customer type performance, sales amount, profit amount, average sales, and average marginservice-wise profit, customer type sales, customer source analysis, city/country sales and profit, and customer type by source.
 
 ### 3. Dashboard / rdash Sheet
 
