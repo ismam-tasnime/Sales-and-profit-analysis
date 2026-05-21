@@ -447,36 +447,9 @@ This dashboard helps the business:
 
 - Make data-driven business decisions
 
----
-
-## Recruiter-Focused Project Highlights
-
-This project demonstrates practical skills in:
-
-- Excel dashboard design
-
-- Pivot Table reporting
-
-- Business performance analysis
-
-- KPI development
-
-- Sales and profit analysis
-
-- Customer segmentation
-
-- Service profitability analysis
-
-- Data visualization
-
-- Business problem identification
-
-- Strategic business recommendation
-
 The project reflects real-world business analysis thinking by not only visualizing data but also identifying business problems and suggesting actionable solutions.
 
 ---
-
 
 ## Conclusion
 
